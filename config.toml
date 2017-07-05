@@ -1,4 +1,4 @@
-baseurl = "https://yuvaldv.github.io/"
+baseurl = "https://yuvaldv.github.io/portfolio/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
