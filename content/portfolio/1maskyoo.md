@@ -9,6 +9,7 @@ weight = 1
 Jr. Product Manager & UX Designer
 <!--more-->
 
+![asd](img/portfolio/maskyoo2.png)
 ## The Story
 Lorem ipsum dolor sit amet, pri no meliore vivendum iudicabit, eum augue nulla decore in, everti erroribus pri ex. Quo esse populo petentium eu, nam ea iusto discere.
 ## The Work
