@@ -1,5 +1,5 @@
 baseurl = "https://yuvaldv.github.io/portfolio/"
-title = "Creative portfolio"
+title = "Yuval's Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -11,12 +11,11 @@ publishDir = "docs"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "sea"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = ""
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Lorem ipsum dolor sit amet, pri no meliore vivendum iudicabit, eum augue nulla decore in, everti erroribus pri ex. Quo esse populo petentium eu, nam ea iusto discere. "
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -34,23 +33,14 @@ publishDir = "docs"
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Portfolio"
   url = ""
 
   [[params.navlinks]]
-  name = "About"
-  url = "about/"
-
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  name = "Home"
+  url = "https://yuvaldv.github.io"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  email         = "mailto:yuval.d.vered@gmail.com?subject=I've%20got%20a%20job%20I'm%20gonna%20need%20your%20help%20with"
+  linkedin      = "https://www.linkedin.com/in/yuvalvered/"
+  github        = "https://github.com/Yuvaldv"

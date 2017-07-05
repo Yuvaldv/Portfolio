@@ -3,53 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yuvaldv.github.io/portfolio/portfolio/work2/</loc>
+    <loc>https://yuvaldv.github.io/portfolio/portfolio/1maskyoo/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuvaldv.github.io/portfolio/portfolio/2personalsite/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://yuvaldv.github.io/portfolio/portfolio/work3/</loc>
+    <loc>https://yuvaldv.github.io/portfolio/portfolio/3primesignals/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://yuvaldv.github.io/portfolio/portfolio/work4/</loc>
+    <loc>https://yuvaldv.github.io/portfolio/portfolio/4talesofballard/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://yuvaldv.github.io/portfolio/portfolio/work5/</loc>
+    <loc>https://yuvaldv.github.io/portfolio/portfolio/5glenmorecapital/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://yuvaldv.github.io/portfolio/portfolio/work6/</loc>
+    <loc>https://yuvaldv.github.io/portfolio/portfolio/6tradefinancial/</loc>
     <lastmod>2016-11-05T19:56:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://yuvaldv.github.io/portfolio/portfolio/work7/</loc>
+    <loc>https://yuvaldv.github.io/portfolio/portfolio/7lotterybrand/</loc>
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuvaldv.github.io/portfolio/portfolio/work8/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuvaldv.github.io/portfolio/portfolio/work9/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuvaldv.github.io/portfolio/portfolio/work10/</loc>
-    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuvaldv.github.io/portfolio/portfolio/work11/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
   <url>
@@ -63,29 +48,24 @@
   </url>
   
   <url>
-    <loc>https://yuvaldv.github.io/portfolio/portfolio/work1/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yuvaldv.github.io/portfolio/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yuvaldv.github.io/portfolio/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yuvaldv.github.io/portfolio/portfolio/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yuvaldv.github.io/portfolio/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuvaldv.github.io/portfolio/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
