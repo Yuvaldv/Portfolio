@@ -1,5 +1,5 @@
 baseurl = "https://yuvaldv.github.io/portfolio/"
-title = "Yuval's Portfolio"
+title = "Yuval V."
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -35,10 +35,6 @@ publishDir = "docs"
   [[params.navlinks]]
   name = "Portfolio"
   url = ""
-
-  [[params.navlinks]]
-  name = "Home"
-  url = "https://yuvaldv.github.io"
 
   [params.social]
   email         = "mailto:yuval.d.vered@gmail.com?subject=I've%20got%20a%20job%20I'm%20gonna%20need%20your%20help%20with"
