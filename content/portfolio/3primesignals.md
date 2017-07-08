@@ -7,7 +7,7 @@ draft = false
 weight = 3
 +++
 
-Lead Product Manager
+Product Manager
 <!--more-->
 
 ![asd](/img/portfolio/maskyoo2.png)

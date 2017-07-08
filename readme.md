@@ -4,3 +4,4 @@
 [] - copy
 [] - showcases init
 [] - showcases final
+[] - change item icon
