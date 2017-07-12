@@ -3,14 +3,15 @@ image = "img/portfolio/primeSignals01.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Prime Signals"
-draft = false
+draft = true
 weight = 3
 +++
 
 Product Manager
 <!--more-->
 
-![asd](/img/portfolio/maskyoo2.png)
+/primeSignals01.png
+
 
 ### The Story
 Lorem ipsum dolor sit amet, pri no meliore vivendum iudicabit, eum augue nulla decore in, everti erroribus pri ex. Quo esse populo petentium eu, nam ea iusto discere.
