@@ -20,7 +20,7 @@ One dreary October evening during an unfortunate time when I was working sales f
 [Maskyoo](http://www.maskyoo.com/) started out as a single founder operation back in 2010. Soon after, I had joined in to manage customer relations for nearly two years. By the time I came back for the role of Product Manager in 2014, the company had scaled ten-fold, both in terms of employees as well as revenue, to the point where they were the local-market leaders for providing Call-Tracking & IVR solutions, and in a position to expand both their product-line & target audience.
 
 ### The Work
-I began working on the new brand e.g ***static website, marketing videos, image & copywriting assets***, approaching the launch of the new product which, regrettably, ended up failing during proof of concept trials. Thus with no legs to stand on, the new brand was inevitably scrapped.
+I began working on the new brand e.g **static website, marketing videos, image & copywriting assets**, approaching the launch of the new product which, regrettably, ended up failing during proof of concept trials. Thus with no legs to stand on, the new brand was inevitably scrapped.
 
 /sad.png
 
@@ -30,4 +30,3 @@ Around the same time Maskyoo had decided to expand and adapt it's call tracking 
 
 /maskyoo3.png
 *for the full gallary, feel free to drop me an [email](mailto:yuval.d.vered@gmail.com?subject=I’d%20like%20to%20checkout%20Maskyoo’s%20UX)
-
