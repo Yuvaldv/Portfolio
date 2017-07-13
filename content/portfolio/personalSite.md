@@ -18,6 +18,6 @@ Throughout my life I had been interested in technology, though I had always felt
 So, while I'm not inclined on changing professions anytime soon, I still aspire to learn more of the tech behind the products, this being one of my first steps towards software development.
 
 ### The Work
-This static was developed with <img src="/portfolio/img/hugo.png" alt="Hugo" style="width: 20px;"/> [Hugo](https://gohugo.io/) and deployed to <img src="/portfolio/img/github.png" alt="Hugo" style="width: 30px;"/>[GitHub Pages](https://pages.github.com/), it's managed completely via [Markdown](https://daringfireball.net/projects/markdown/) files, and was created at $0 costs. Full documentation can be found [here](https://github.com/Yuvaldv/mySite-Hugo).
+This static website was developed with <img src="/portfolio/img/hugo.png" alt="Hugo" style="width: 20px;"/> [Hugo](https://gohugo.io/) and deployed to <img src="/portfolio/img/github.png" alt="Hugo" style="width: 30px;"/>[GitHub Pages](https://pages.github.com/), it's managed completely via [Markdown](https://daringfireball.net/projects/markdown/) files, and was created at $0 costs. Full documentation can be found [here](https://github.com/Yuvaldv/mySite-Hugo).
 
 [^CS]: Computer Science
