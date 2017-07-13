@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuval V.</title>
+    <link>https://yuvaldv.github.io/portfolio/</link>
+    <description>Recent content on Yuval V.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://yuvaldv.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maskyoo Calltracking Solutions</title>
+      <link>https://yuvaldv.github.io/portfolio/portfolio/maskyoo/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://yuvaldv.github.io/portfolio/portfolio/maskyoo/</guid>
+      <description>&lt;p&gt;Jr. Product Manager &amp;amp; UX Designer
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>This Personal Website</title>
+      <link>https://yuvaldv.github.io/portfolio/portfolio/personalsite/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://yuvaldv.github.io/portfolio/portfolio/personalsite/</guid>
+      <description>&lt;p&gt;Sole creator, developer &amp;amp; deployer
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tales of Ballard - A Product Management Story</title>
+      <link>https://yuvaldv.github.io/portfolio/portfolio/talesofballard/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://yuvaldv.github.io/portfolio/portfolio/talesofballard/</guid>
+      <description>&lt;p&gt;Copywriter
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blackrock Marketing</title>
+      <link>https://yuvaldv.github.io/portfolio/portfolio/blackrockmarketing/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://yuvaldv.github.io/portfolio/portfolio/blackrockmarketing/</guid>
+      <description>&lt;p&gt;Product Manager
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
