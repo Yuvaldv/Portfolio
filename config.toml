@@ -37,7 +37,7 @@ publishDir = "docs"
 
     [[params.navlinks]]
       name = "About"
-      url = "/portfolio/yuvalvresume.pdf"
+      url = "https://yuvaldv.github.io/yuvalvresume.pdf"
 
     [params.social]
     email         = "mailto:yuval.d.vered@gmail.com?subject=I've%20got%20a%20job%20I'm%20gonna%20need%20your%20help%20with"
