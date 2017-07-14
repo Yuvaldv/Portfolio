@@ -12,7 +12,7 @@ publishDir = "docs"
   # Use custom.css for your custom styling
   style = "blue"
   description = ""
-  copyright = "&copy;2016 Your name or company"
+  copyright = ""
   sidebarAbout = [
     "I'm a customer experience specialist with over 8 years of experience in managing complex projects as part of corporate settings as well as startup operations, working on both consumer and business facing products"
   ]
@@ -34,6 +34,10 @@ publishDir = "docs"
   [[params.navlinks]]
     name = "Portfolio"
     url = ""
+
+    [[params.navlinks]]
+      name = "About"
+      url = "/portfolio/yuvalvresume.pdf"
 
     [params.social]
     email         = "mailto:yuval.d.vered@gmail.com?subject=I've%20got%20a%20job%20I'm%20gonna%20need%20your%20help%20with"
