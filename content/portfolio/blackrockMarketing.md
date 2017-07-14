@@ -37,7 +37,7 @@ I ended up doing the copywriting, just over 2000 words, as well as managing spec
 Another task that split my attention during that same time was reconfiguring the company's inbound telemarketing solutions i.e designing & implementing a new IVR[^IVR] flow to better attract & retain our customer base.
 
 #### Funnels
-During my time at Blackrock one of the constants was the perpetual requirement for new and engaging funnels to attract our customer base. Which, for me, entailed managing the deployment of landing pages beautifully designed by [<i class="fa fa-linkedin-square" aria-hidden="true"></i>Katya K](https://www.linkedin.com/in/katya-k-58b5b825), working on video content via Adobe [Premiere](http://www.adobe.com/il_en/products/premiere.html) & [AfterEffects](http://www.adobe.com/il_en/products/aftereffects.html) as well as doing market research mainly using [WhatRunsWhere](https://www.whatrunswhere.com)  
+During my time at Blackrock one of the constants was the perpetual requirement for new and engaging funnels to attract our customer base. Which, for me, entailed managing the deployment of landing pages beautifully designed by [<i class="fa fa-linkedin-square" aria-hidden="true"></i>Katya K](https://www.linkedin.com/in/katya-k-58b5b825), working on video content using Adobe [Premiere](http://www.adobe.com/il_en/products/premiere.html) & [AfterEffects](http://www.adobe.com/il_en/products/aftereffects.html) as well as doing market research mainly via [WhatRunsWhere](https://www.whatrunswhere.com)  
 
 [^CMO]: Chief Marketing Officer
 [^ASO]: AppStore Optimization
